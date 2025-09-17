@@ -1,2 +1,2 @@
 # apnaCollege
-In this repo I will learn about github
+In this repo I will learn about git and github
